@@ -1,4 +1,5 @@
-# Everything (6 classes + 2 interfaces within 2 packages, and 1 jpg) will be in the "Project1.java" folder. Best regards, Callan Hercules
+# Everything (6 classes + 2 interfaces within 2 packages, and 1 jpg) will be in the "Project1.java" folder. Best regards, 
+Callan Hercules
 
 
 
